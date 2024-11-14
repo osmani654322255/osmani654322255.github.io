@@ -1,0 +1,11 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://osmani654322255.github.io/osmani654322255_github_io_zp533_1.txt
+Sitemap: https://osmani654322255.github.io/osmani654322255_github_io_zp533_13.txt
+Sitemap: https://osmani654322255.github.io/osmani654322255_github_io_zp533_17.txt
+Sitemap: https://osmani654322255.github.io/osmani654322255_github_io_zp533_20.txt
+Sitemap: https://osmani654322255.github.io/osmani654322255_github_io_zp533_24.txt
+Sitemap: https://osmani654322255.github.io/osmani654322255_github_io_zp533_28.txt
+Sitemap: https://osmani654322255.github.io/osmani654322255_github_io_zp533_5.txt
+Sitemap: https://osmani654322255.github.io/osmani654322255_github_io_zp533_9.txt
